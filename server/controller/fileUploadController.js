@@ -55,7 +55,8 @@ let uploadFile = (req, res) => {
     .save()
     .then(() => {
       res.status(200).json({
-        message: `File ${file.originalname} uploaded successfully to S3 at path: ${file.location}`,
+        message: "File uploaded successfully",
+        // message: `File ${file.originalname} uploaded successfully to S3 at path: ${file.location}`,
       });
     })
     .catch((err) => {
