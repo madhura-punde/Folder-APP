@@ -1,0 +1,16 @@
+
+
+###
+GET http://localhost:3000/files/files?page=1
+
+###  
+GET http://localhost:3000/files/files?page=2&perPage=5 
+
+###
+GET http://localhost:3000/files/search?searchTerm=&folderId=copilot
+
+###
+GET http://localhost:3000/files/search?searchTerm=&folderId=backend
+
+
+

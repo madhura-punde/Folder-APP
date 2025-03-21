@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+/dist
+/build
+/uploads
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variable file
+.env
+
+# IDE and editor folders/settings
+.vscode/
+.idea/
+
+
+# Dependency directories (including global installations)
+node_m
