@@ -11,6 +11,30 @@ This is the frontend of the Folder-App, a full-stack application for managing fi
 - **Filter Functionality**: Apply filters to search for specific files or folders.
 - **Responsive Design**: Built with Bootstrap for a responsive and modern UI.
 
+## Screenshots
+
+### Home Page
+<img width="1415" alt="Screenshot 2025-04-02 at 10 27 52 AM" src="https://github.com/user-attachments/assets/be3d2db2-d9f1-4578-8509-22cbcedf3779" />
+
+### Options available
+<img width="1157" alt="Screenshot 2025-04-02 at 10 28 05 AM" src="https://github.com/user-attachments/assets/4b4de9a9-0596-40d9-b65c-df6b382ddbdd" />
+
+### Create Folder
+<img width="1149" alt="Screenshot 2025-04-02 at 10 28 23 AM" src="https://github.com/user-attachments/assets/1d4b5066-61a5-4a6d-9e96-8a7c2bbd3734" />
+
+### Filter Popup
+<img width="1106" alt="Screenshot 2025-04-02 at 10 28 44 AM" src="https://github.com/user-attachments/assets/f131f80e-5ec0-4413-ab36-2fc577669e88" />
+
+### Upload Document Popup
+<img width="1152" alt="Screenshot 2025-04-02 at 10 28 35 AM" src="https://github.com/user-attachments/assets/fbfec89c-bbae-40a5-8c34-46c9789bb596" />
+
+### Collapsed Sidebar
+<img width="1422" alt="Screenshot 2025-04-02 at 10 29 20 AM" src="https://github.com/user-attachments/assets/aebfd842-72bc-4b5d-9361-45381f6f6de8" />
+
+### Options available on each folder in table
+<img width="1411" alt="Screenshot 2025-04-02 at 10 29 02 AM" src="https://github.com/user-attachments/assets/56fa2948-7e00-4268-842d-45ed2ab8f3c9" />
+
+
 ## Folder Structure
 
 ```
