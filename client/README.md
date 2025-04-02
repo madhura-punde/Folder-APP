@@ -164,5 +164,4 @@ Linting is configured in `eslint.config.js` to ensure code quality.
 - Improve the document viewer to support more file types.
 
 ## License
-
-This project is licensed under the MIT License.
+NA
